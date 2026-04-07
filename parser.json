@@ -1,8 +1,7 @@
 {
-  "location": null,
   "semver": false,
-  "url": "https://github.com/Fymyte/tree-sitter-rasi",
   "lang": "rasi",
-  "min_version": null,
-  "max_version": null
+  "location": null,
+  "parser_version": "e735c6881d8b475aaa4ef8f0a2bdfd825b438143",
+  "url": "https://github.com/Fymyte/tree-sitter-rasi"
 }
